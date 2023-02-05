@@ -1,11 +1,10 @@
 import { configureStore, ThunkAction, Action } from '@reduxjs/toolkit';
 import rowsReducer from './rowsSlice';
-import editableReducer from './editableSlice';
+
 
 export const store = configureStore({
   reducer: {
     rows: rowsReducer,
-    // editable: editableReducer,
   },
 });
 

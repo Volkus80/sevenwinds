@@ -1,5 +1,5 @@
 import s from "./TableRow.module.scss";
-import React, { useState, useMemo, useCallback } from "react";
+import React, { useState, useMemo } from "react";
 import { useAppDispatch, useAppSelector } from "../../../../app/hooks";
 import {
   addRowLocally,

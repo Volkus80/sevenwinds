@@ -1,4 +1,4 @@
-import React, { useMemo } from "react";
+import React from "react";
 import { useAppSelector } from "../../../app/hooks";
 import s from "./Table.module.scss";
 import { RowData } from "../../../app/store.types";
