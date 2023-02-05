@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sevenwinds/static/css/main.28b0280e.css",
+    "main.js": "/sevenwinds/static/js/main.5ec12d0e.js",
+    "static/js/787.8133fea9.chunk.js": "/sevenwinds/static/js/787.8133fea9.chunk.js",
+    "static/media/busket.svg": "/sevenwinds/static/media/busket.14eb749d6e247b1f14ac.svg",
+    "static/media/loader.svg": "/sevenwinds/static/media/loader.0204821be2066c6e21c7.svg",
+    "static/media/rowItem.svg": "/sevenwinds/static/media/rowItem.75774930b8d14388d848.svg",
+    "index.html": "/sevenwinds/index.html",
+    "static/media/listItem.svg": "/sevenwinds/static/media/listItem.f382575b9a0c17a56e87.svg",
+    "static/media/menu.svg": "/sevenwinds/static/media/menu.11f97507b87f3ac10b1a.svg",
+    "static/media/menuActive.svg": "/sevenwinds/static/media/menuActive.528bbacd86cf2c3ac64a.svg",
+    "static/media/downArrow.svg": "/sevenwinds/static/media/downArrow.05a385524ea9ed44d817.svg",
+    "static/media/backArrow.svg": "/sevenwinds/static/media/backArrow.937d6be56823fddadf07.svg",
+    "static/media/backArrowActive.svg": "/sevenwinds/static/media/backArrowActive.7bcfcb9353ab7a89db7f.svg",
+    "main.28b0280e.css.map": "/sevenwinds/static/css/main.28b0280e.css.map",
+    "main.5ec12d0e.js.map": "/sevenwinds/static/js/main.5ec12d0e.js.map",
+    "787.8133fea9.chunk.js.map": "/sevenwinds/static/js/787.8133fea9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28b0280e.css",
+    "static/js/main.5ec12d0e.js"
+  ]
+}
